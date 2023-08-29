@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "startpages",
+  "info": {
+    "singularName": "startpage",
+    "pluralName": "startpages",
+    "displayName": "startpage"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "green",
+        "red",
+        "blue"
+      ],
+      "required": true
+    }
+  }
+}
